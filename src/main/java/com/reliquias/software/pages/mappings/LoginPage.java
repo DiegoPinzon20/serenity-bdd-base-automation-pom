@@ -1,18 +1,20 @@
 package com.reliquias.software.pages.mappings;
 
 import net.serenitybdd.core.pages.WebElementFacade;
+import net.thucydides.core.annotations.DefaultUrl;
 import net.thucydides.core.pages.PageObject;
 import org.openqa.selenium.support.FindBy;
 
+@DefaultUrl("https://serenity.is/demo/")
 public class LoginPage extends PageObject {
 
     @FindBy(xpath = "//input[@name = 'Username']")
-    WebElementFacade inputUsername;
+    public WebElementFacade inputUsername;
 
     @FindBy(xpath = "//input[@type = 'password' and contains(@id, 'Login')]")
-    WebElementFacade inputPassword;
+    public WebElementFacade inputPassword;
 
     @FindBy(xpath = "//button[contains(text(), 'Sign In')]")
-    WebElementFacade btnLogin;
+    public WebElementFacade btnLogin;
 
 }
