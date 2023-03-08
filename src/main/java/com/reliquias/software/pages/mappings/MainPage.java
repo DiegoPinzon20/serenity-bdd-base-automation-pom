@@ -7,6 +7,6 @@ import org.openqa.selenium.support.FindBy;
 public class MainPage extends PageObject {
 
     @FindBy(xpath = "//main/section/section/h1")
-    WebElementFacade txtTitleMainPage;
+    public WebElementFacade txtTitleMainPage;
 
 }
