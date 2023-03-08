@@ -1,17 +1,17 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/DiegoPinzon20/serenity-bdd-base-automation?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/DiegoPinzon20/serenity-bdd-base-automation?color=orange&style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/DiegoPinzon20/serenity-bdd-base-automation?color=success&style=flat-square)
-[![GitHub Stars](https://img.shields.io/github/stars/DiegoPinzon20/serenity-bdd-base-automation?label=GitHub%20stars&style=social)](https://github.com/DiegoPinzon20/serenity-bdd-base-automation/stargazers/)
-![GitHub forks](https://img.shields.io/github/forks/DiegoPinzon20/serenity-bdd-base-automation?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/DiegoPinzon20/serenity-bdd-base-automation-pom?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/DiegoPinzon20/serenity-bdd-base-automation-pom?color=orange&style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/DiegoPinzon20/serenity-bdd-base-automation-pom?color=success&style=flat-square)
+[![GitHub Stars](https://img.shields.io/github/stars/DiegoPinzon20/serenity-bdd-base-automation-pom?label=GitHub%20stars&style=social)](https://github.com/DiegoPinzon20/serenity-bdd-base-automation-pom/stargazers/)
+![GitHub forks](https://img.shields.io/github/forks/DiegoPinzon20/serenity-bdd-base-automation-pom?style=social)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![GitHub All Releases](https://img.shields.io/github/downloads/DiegoPinzon20/serenity-bdd-base-automation/total.svg)
-![GitHub language count](https://img.shields.io/github/languages/count/DiegoPinzon20/serenity-bdd-base-automation.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/DiegoPinzon20/serenity-bdd-base-automation-pom/total.svg)
+![GitHub language count](https://img.shields.io/github/languages/count/DiegoPinzon20/serenity-bdd-base-automation-pom.svg)
 
 <div align="left">
-<h1>serenity-bdd-base-automation ✨</h1>
+<h1>serenity-bdd-base-automation-pom ✨</h1>
 </div>
 
-[![Iungot Server Application](https://jordinodejs.vercel.app/api/pin/?username=DiegoPinzon20&repo=serenity-bdd-base-automation&theme=calm&bg_color=c2c7ff&title_color=000000&icon_color=000000&border_color=000000&text_color=000000)](https://github.com/DiegoPinzon20/serenity-bdd-base-automation)
+[![Iungot Server Application](https://jordinodejs.vercel.app/api/pin/?username=DiegoPinzon20&repo=serenity-bdd-base-automation-pom&theme=calm&bg_color=c2c7ff&title_color=000000&icon_color=000000&border_color=000000&text_color=000000)](https://github.com/DiegoPinzon20/serenity-bdd-base-automation-pom)
 
 ## Información General 🔬
 
@@ -55,12 +55,12 @@ o descargar el archivo zip del proyecto.
 Git:
 
 ``` shell 
- git clone https://github.com/DiegoPinzon20/serenity-bdd-base-automation.git
- cd serenity-bdd-base-automation
+ git clone https://github.com/DiegoPinzon20/serenity-bdd-base-automation-pom.git
+ cd serenity-bdd-base-automation-pom
 ```
 
 O
-simplemente [descargar archivo zip](https://github.com/DiegoPinzon20/serenity-bdd-base-automation/archive/refs/heads/master.zip)
+simplemente [descargar archivo zip](https://github.com/DiegoPinzon20/serenity-bdd-base-automation-pom/archive/refs/heads/master.zip)
 .
 
 ## Ver los informes 👀
@@ -103,4 +103,4 @@ Se usa Git para el control de versiones. 🔀
 
 ## Copyright
 
-Publicado bajo la Licencia MIT, ver el archivo [LICENSE](https://github.com/DiegoPinzon20/serenity-bdd-base-automation/blob/master/LICENSE).
+Publicado bajo la Licencia MIT, ver el archivo [LICENSE](https://github.com/DiegoPinzon20/serenity-bdd-base-automation-pom/blob/master/LICENSE).
