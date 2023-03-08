@@ -3,7 +3,7 @@ package com.reliquias.software.pages.mappings;
 import net.serenitybdd.core.pages.WebElementFacade;
 import net.thucydides.core.annotations.DefaultUrl;
 import net.thucydides.core.pages.PageObject;
-import org.openqa.selenium.support.FindBy;
+import net.serenitybdd.core.annotations.findby.FindBy;
 
 @DefaultUrl("https://serenity.is/demo/")
 public class LoginPage extends PageObject {
