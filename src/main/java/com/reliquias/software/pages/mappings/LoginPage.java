@@ -4,7 +4,7 @@ import net.serenitybdd.core.pages.WebElementFacade;
 import net.thucydides.core.pages.PageObject;
 import org.openqa.selenium.support.FindBy;
 
-public class PaginaInicioSesion extends PageObject {
+public class LoginPage extends PageObject {
 
     @FindBy(xpath = "//input[@name = 'Username']")
     WebElementFacade inputUsername;
